@@ -173,7 +173,7 @@ El navegador puede:
 También puedes comprobar manualmente desde:
 
 ```text
-Menú ⋯ → Buscar actualizaciones…
+Menú → Ajustes → Buscar actualizaciones…
 ```
 
 ---
