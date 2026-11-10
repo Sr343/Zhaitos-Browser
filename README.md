@@ -6,7 +6,7 @@
 
 ## Características
 
-### 🛡️ Escudo de privacidad
+###  Escudo de privacidad
 
 - Bloqueo de anuncios y rastreadores.
 - Protección contra fingerprinting.
@@ -19,7 +19,7 @@
 - Excepciones configurables por sitio.
 - Modo privado.
 
-### 📥 Escudo de descargas
+###  Escudo de descargas
 
 Zhaitos puede impedir que una página inicie una descarga sin autorización.
 
@@ -40,7 +40,7 @@ Los archivos no se envían a servicios externos para realizar el análisis.
 
 ---
 
-## 🔐 Bóveda cifrada
+##  Bóveda cifrada
 
 Zhaitos protege contraseñas y datos locales mediante **Windows DPAPI**.
 
@@ -50,7 +50,7 @@ La información sensible se mantiene localmente y no se sincroniza automáticame
 
 ---
 
-## ⚡ Rendimiento adaptativo
+##  Rendimiento adaptativo
 
 Zhaitos supervisa los recursos disponibles del equipo y adapta su comportamiento automáticamente.
 
@@ -93,7 +93,7 @@ Puedes configurar sitios que **nunca deben dormirse**, por ejemplo servicios de 
 
 ---
 
-# 📚 Zhaitos Biblioteca
+#  Zhaitos Biblioteca
 
 La Biblioteca permite organizar y consultar manga, manhwa, anime y donghua desde el navegador.
 
@@ -132,7 +132,7 @@ La Biblioteca incluye una sección separada para animación china y conectores e
 
 ---
 
-# 🔧 Diagnóstico de conectores
+#  Diagnóstico de conectores
 
 En:
 
@@ -152,7 +152,7 @@ También es posible generar archivos de diagnóstico para analizar cambios en si
 
 ---
 
-# 🔄 Actualizaciones
+#  Actualizaciones
 
 Zhaitos consulta automáticamente:
 
@@ -178,7 +178,7 @@ Menú → Ajustes → Buscar actualizaciones…
 
 ---
 
-# 💿 Instalación recomendada
+#  Instalación recomendada
 
 ## ZhaitosBrowserSetup.exe
 
@@ -212,7 +212,7 @@ puede utilizarse para instalar futuras versiones.
 
 ---
 
-# 🖥️ Requisitos
+#  Requisitos
 
 - Windows 10 x64.
 - Windows 11 x64.
@@ -249,7 +249,7 @@ https://dotnet.microsoft.com/download/dotnet/8.0
 
 ---
 
-# 🧰 Instalación avanzada
+#  Instalación avanzada
 
 Los usuarios que prefieran el instalador tradicional pueden descargar:
 
